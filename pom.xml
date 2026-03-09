@@ -120,7 +120,7 @@
                 <version>3.4.0</version>
                 <configuration>
                     <to>
-                        <image>lokie2000/order-service</image>
+                        <image>${REPO_URL}/orderservice</image>
                     </to>
                 </configuration>
             </plugin>
